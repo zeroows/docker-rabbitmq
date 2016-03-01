@@ -71,4 +71,6 @@ $ docker run -d \
 
 ## Copyright
 
-Copyright (c) 2014 Ferran Rodenas. See [LICENSE](https://github.com/frodenas/docker-rabbitmq/blob/master/LICENSE) for details.
+Copyright (c) 2016 Abdulrhman Alkhodiry. See [LICENSE](https://github.com/zeroows/docker-rabbitmq/blob/master/LICENSE) for details.
+
+Thanks to Ferran Rodenas
